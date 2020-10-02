@@ -91,5 +91,3 @@ nohup.out
 /.vagrant
 #Laravel Specific files
 /public/.htaccess
-/storage
-storage/*.key
